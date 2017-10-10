@@ -19,7 +19,7 @@ header, h2 {
 h2 {
   margin-top: 1em;
   padding-top: 1em;
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
 h1,
@@ -57,7 +57,7 @@ header.small {
 
 header h1 {
   color: white;
-  font-size: 2.5em; /* was 2.5em */
+  font-size: 3em; /* was 2.5em */
   font-weight: 300; /* was 300 */
 }
 
