@@ -56,18 +56,14 @@ header.small {
 
 header h1 {
   color: white;
-  font-size: 2.1em; /* was 2.5em */
+  font-size: 2.5em; /* was 2.5em */
   font-weight: 300; /* was 300 */
-}
-
-header.small h1 {
-  font-size: 1em;
 }
 
 header p {
   color: white;
   font-weight: 300;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 header a {
   float: right;
