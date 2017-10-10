@@ -45,6 +45,10 @@ header {
   box-shadow: inset 0px 0px 40px rgba(0,0,0,1.0);
 }
 
+header.small {
+  padding: 2vw 2em;
+}
+
 header h1 {
   color: white;
   font-size: 3.5em; /* was 2.5em */
