@@ -33,7 +33,7 @@ a:hover {
 }
 
 header {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Slabo 27px', serif;
   
   background-color: #7A334C;
   background-image: url("/velviablossoms_small.jpg");
@@ -53,6 +53,7 @@ header.small {
 }
 
 header h1 {
+  font-family: 'Josefin Slab', serif;
   color: white;
   font-size: 2.1em; /* was 2.5em */
   font-weight: 300; /* was 300 */
