@@ -12,6 +12,10 @@ main {
   padding: 0em 1em;
 }
 
+header, h2 {
+  font-family: 'Josefin Slab', serif;
+}
+
 h2 {
   margin-top: 1em;
   padding-top: 1em;
@@ -32,9 +36,7 @@ a:hover {
   text-decoration: underline;
 }
 
-header {
-  font-family: 'Slabo 27px', serif;
-  
+header {  
   background-color: #7A334C;
   background-image: url("/velviablossoms_small.jpg");
   background-position: center top;
@@ -53,7 +55,6 @@ header.small {
 }
 
 header h1 {
-  font-family: 'Josefin Slab', serif;
   color: white;
   font-size: 2.1em; /* was 2.5em */
   font-weight: 300; /* was 300 */
