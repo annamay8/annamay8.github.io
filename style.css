@@ -13,7 +13,8 @@ main {
 }
 
 hr {
-  border: 1px #CC6096;
+  border: none;
+  border-bottom: 1px #CC6096;
 }
 
 header, h1, h2 {
