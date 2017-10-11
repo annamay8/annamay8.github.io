@@ -12,6 +12,10 @@ main {
   padding: 0em 1em;
 }
 
+hr {
+  border: 1px #CC6096;
+}
+
 header, h1, h2 {
   font-family: 'Josefin Slab', serif;
 }
