@@ -14,7 +14,8 @@ main {
 
 hr {
   border: none;
-  border-bottom: 1px #CC6096;
+  background-color: #CC6096;
+  height: 1px;
 }
 
 header, h1, h2 {
