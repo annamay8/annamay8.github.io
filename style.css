@@ -71,6 +71,7 @@ header p {
 }
 header a {
   float: right;
+  clear: both;
   border: 1px solid #e81c4f;
   border-radius: 290486px;
   color: white;
