@@ -9,9 +9,12 @@ title: Posts
 <main>
   <h1>All the Posts!!</h1>
   {% for post in site.posts %}
-  <p><a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a></p>
+  <p>
+    <a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a>
+    <a href="{{ post.url }}#disqus_thread" style="float:right;"></a>
+  </p>
   {% endfor %}
-  <hr/>
+
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- bottom page -->
   <ins class="adsbygoogle"
