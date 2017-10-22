@@ -6,6 +6,7 @@ title: Rem and Subaru Cosplay Mace and Horn VFX Breakdown
 The Result!
 ===========
 ![The final pic](/img/mace_large.jpg)
+
 [Check out the full sized super high-res pic on flickr](https://flic.kr/p/ZgJBvR)
 
 The Breakdown
@@ -20,24 +21,37 @@ Here I'm using the material demo scene from [blendermada](http://blendermada.com
 
 All of the materials use procedural textures.
 
-**Striped Ball Material:**
+Striped Ball Material:
+----------------------
+All the materials below are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br/>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
 The stripes on the material were created with a procedural brick texture driven from the normal coordinates.
 
-![Ball material](/img/mat_ball.jpg)
+![Ball material](/img/mat_striped.jpg)
 
 [Download .blend file](/dl/mat_striped.blend)
 
-**Scratched Paint Material:**
+Scratched Paint Material:
+-------------------------
 Same as the above material but without the stripes, this material is used for the handle.
 
 ![Scratched paint material](/img/mat_scratch.jpg)
 
-**Bright Bare Metal Material:**
+[Download .blend file](/dl/mat_striped.blend)
+
+Bright Bare Metal Material:
+---------------------------
 This material is also used for part of the handle and with a darker base color.
 
 ![Bare metal Material](/img/mat_metal.jpg)
 
-**Tile Slate Material:**
+[Download .blend file](/dl/mat_metal.blend)
+
+Tile Slate Material:
+--------------------
 I spent the least ammount of time on this material since it's not as prominent.
 
 ![Slate Material](/img/mat_slate.jpg)
+
+[Download .blend file](/dl/mat_slate.blend)
