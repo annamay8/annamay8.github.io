@@ -11,7 +11,7 @@ title: Posts
   {% for post in site.posts %}
   <p>
     <a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a>
-    <a href="{{ post.url }}#disqus_thread" style="float:right;"></a>
+    <a href="{{ post.url }}#disqus_thread" style="float:right;opacity:0.5;"></a>
   </p>
   {% endfor %}
 
