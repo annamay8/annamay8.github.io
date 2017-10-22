@@ -20,24 +20,24 @@ Here I'm using the material demo scene from [blendermada](http://blendermada.com
 
 All of the materials use procedural textures.
 
-*Striped Ball Material:*
+**Striped Ball Material:**
 The stripes on the material were created with a procedural brick texture driven from the normal coordinates.
 
 ![Ball material](/img/mat_ball.jpg)
 
 [Download .blend file](/dl/mat_striped.blend)
 
-*Scratched Paint Material:*
+**Scratched Paint Material:**
 Same as the above material but without the stripes, this material is used for the handle.
 
 ![Scratched paint material](/img/mat_scratch.jpg)
 
-*Bright Bare Metal Material:*
+**Bright Bare Metal Material:**
 This material is also used for part of the handle and with a darker base color.
 
 ![Bare metal Material](/img/mat_metal.jpg)
 
-*Tile Slate Material:*
+**Tile Slate Material:**
 I spent the least ammount of time on this material since it's not as prominent.
 
 ![Slate Material](/img/mat_slate.jpg)
