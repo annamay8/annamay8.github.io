@@ -34,7 +34,7 @@ The stripes on the material were created with a procedural brick texture driven 
 
 Scratched Paint Material:
 -------------------------
-Same as the above material but without the stripes, this material is used for the handle.
+Same as the above material but without the stripes and scaled down a little so the scratches are smaller, this material is used for the handle.
 
 ![Scratched paint material](/img/mat_scratch.jpg)
 
