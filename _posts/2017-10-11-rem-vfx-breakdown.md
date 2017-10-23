@@ -30,7 +30,7 @@ All the materials below are licensed under a <a rel="license" href="http://creat
 The stripes on the material were created with a procedural brick texture driven from the normal coordinates.
 
 <a href="/img/mat_striped.jpg">
-<img alt="striped material" src="/img/mat_striped.jpg" width=256px height=256px />
+<img alt="striped material" src="/img/mat_striped.jpg" width="256px" height="256px" />
 </a>
 
 [Download .blend file](/dl/mat_striped.blend)
@@ -40,7 +40,7 @@ Scratched Paint Material:
 Same as the above material but without the stripes and scaled down a little so the scratches are smaller, this material is used for the handle.
 
 <a href="/img/mat_scratch.jpg">
-<img alt="Scratched paint material" src="/img/mat_scratch.jpg" width=256px height=256px />
+<img alt="Scratched paint material" src="/img/mat_scratch.jpg" width="256px" height="256px" />
 </a>
 
 [Download .blend file](/dl/mat_striped.blend)
@@ -50,7 +50,7 @@ Bright Bare Metal Material:
 This material is also used for part of the handle and with a darker base color.
 
 <a href="/img/mat_metal.jpg">
-<img alt="Bare metal Material" src="/img/mat_metal.jpg" width=256px height=256px />
+<img alt="Bare metal Material" src="/img/mat_metal.jpg" width="256px" height="256px" />
 </a>
 
 [Download .blend file](/dl/mat_metal.blend)
@@ -60,7 +60,7 @@ Tile Slate Material:
 I spent the least ammount of time on this material since it's not as prominent.
 
 <a href="/img/mat_slate.jpg">
-<img alt="Slate Material" src="/img/mat_slate.jpg" width=256px height=256px />
+<img alt="Slate Material" src="/img/mat_slate.jpg" width="256px" height="256px" />
 </a>
 
 [Download .blend file](/dl/mat_slate.blend)
