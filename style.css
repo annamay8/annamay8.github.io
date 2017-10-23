@@ -40,6 +40,11 @@ a:hover {
   text-decoration: underline;
 }
 
+img.highres {
+  max-width=0.5em;
+  max-height=0.5em;
+}
+
 header {  
   background-color: #7A334C;
   background-image: url("/velviablossoms_small.jpg");
