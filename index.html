@@ -25,6 +25,7 @@ title: Home
   <p>
     <a href="http://worldcosplay.net/member/annamay"><b>Cure WorldCosplay!</b> worldcosplay.net/member/annamay</a>
   </p>
+  
   <h1>
     Lesser Used Social Media Links
   </h1>
@@ -44,6 +45,14 @@ title: Home
     <a href="http://myanimelist.net/animelist/alice789"><b>My Anime List!</b> myanimelist.net/animelist/alice789</a>
   </p>
   <hr/>
+  
+  <h1>Blog Posts</h1>
+  {% for post in site.posts limit:5 %}
+    <p><a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a></p>
+  {% endfor %}
+  <p><a href="/posts.html"><b>SEE ALL POSTS &raquo;</b></a></p>
+  <hr/>
+  
   <h1>Photos</h1>
   <p>This is just a small sampling of images. Check the social media links above for more.</p>
   <p>
@@ -59,12 +68,7 @@ title: Home
     </script>
   </p>
   <hr/>
-  <h1>Blog Posts</h1>
-  {% for post in site.posts limit:5 %}
-    <p><a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a></p>
-  {% endfor %}
-  <p><a href="/posts.html"><b>SEE ALL POSTS &raquo;</b></a></p>
-  <hr/>
+
   <h1>
     Send me an email?
   </h1>
@@ -84,6 +88,7 @@ title: Home
     </script>
     <!-- Do not change the code! -->
   </p>
+
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- bottom page -->
   <ins class="adsbygoogle"
