@@ -5,7 +5,8 @@ title: Rem and Subaru Cosplay Mace and Horn VFX Breakdown
 
 The Result!
 ===========
-<img alt="The final pic" src="/img/mace_large.jpg" class=responsive />
+
+<img alt="The final pic" src="/img/mace_large.jpg" class="responsive" />
 
 [Check out the full sized super high-res pic on flickr](https://flic.kr/p/ZgJBvR)
 
