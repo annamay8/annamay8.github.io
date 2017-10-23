@@ -40,9 +40,8 @@ a:hover {
   text-decoration: underline;
 }
 
-img.highres {
-  max-width=0.5em;
-  max-height=0.5em;
+img.responsive {
+  width:100%;
 }
 
 header {  
