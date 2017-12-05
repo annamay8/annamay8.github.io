@@ -8,11 +8,11 @@
 	<xsl:template match="/">
 	<html>
 		<head>
-			<title>Making XML beautiful again : Transforming ATOM</title>
-			<style type="text/css" media="screen">@import "news_overview.css?v=001";</style>
+			<title>RSS Feed for AnnaMay Cosplay</title>
+			<style type="text/css" media="screen"></style>
 		</head>
 		<body>
-		<xsl:apply-templates select="/atom:feed"/>
+			<xsl:apply-templates select="/atom:feed"/>
 		</body>
 	</html>
 	</xsl:template>
@@ -51,7 +51,6 @@
 			<p class="date">
 		 		(<xsl:value-of select="substring-before(atom:updated,'T')"/>)
 			</p>
-			<xsl:value-of select="atom:content" disable-output-escaping="yes"/>
 			<br/>
 			<xsl:apply-templates select="atom:category"/>
 		</li>
