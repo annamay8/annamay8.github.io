@@ -18,6 +18,8 @@
 			</style>
 		</head>
 		<body>
+			<h1>Atom Feed</h1>
+			<p><strong>You can subscribe to this Atom feed using your favorite Atom/RSS reader Application!</strong></p>
 			<xsl:apply-templates select="/atom:feed"/>
 		</body>
 	</html>
