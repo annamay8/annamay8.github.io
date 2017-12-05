@@ -3,7 +3,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title><xsl:value-of select="/rss/channel/title" /></title>
+        <title><xsl:value-of select="/feed/title" /></title>
 
         <style type="text/css">
         </style>
@@ -13,9 +13,9 @@
       <body>
         <div align="center">
           <div id="headerInfo">
-            <h1><xsl:value-of select="/rss/channel/title" /></h1>
+            <h1><xsl:value-of select="/feed/title" /></h1>
             <p align="center" id="headerText">This page is the syndication feed for 
-            <b><xsl:value-of select="/rss/channel/title" /></b>.  You can subscribe
+            <b><xsl:value-of select="/feed/title" /></b>.  You can subscribe
             to this feed using an aggregator program.</p>
           </div>
         </div>
