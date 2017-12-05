@@ -47,6 +47,7 @@ title: Home
   <hr/>
   
   <h1>Blog Posts</h1>
+  <p><em>Subscribe with your favorite RSS Reader!</em></p>
   {% for post in site.posts limit:5 %}
     <p><a href="{{ post.url }}"><i>{{ post.date | date_to_string }}</i> &raquo; {{ post.title }}</a></p>
   {% endfor %}
