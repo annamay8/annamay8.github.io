@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Focal Length, Aperture and Crop Factor APSC vs. Full Frame
+title: 35mm Equivalent Focal Length, Aperture and it's Effect on Depth of Field, Distortion, etc.
 ---
 
 Understanding the effect of crop factor on angle of view, distortion, and noise is complicated.
@@ -62,8 +62,10 @@ Varying the aperture has two effects. A larger aperture (smaller f-number) resul
 A photo taken with the same 35mm equivalent aperature and the same 35mm equivalent focal length will exibit the same depth of field. 
 
 35mm Equivalent ISO
-===================
-Though it is not commonly talked about, it is possible to use the concept of a 35mm-equivalent ISO. You can arrive at a 35mm-equivalent ISO, by multiplying the ISO by the crop factor. 35mm equivalent ISO determines the ammount of noise in the picture. The ammount of noise can vary significantly among sensors and film stocks so the notion of a 35mm-equivalent ISO is less usefull than the other 35mm-equivalent measures.
+=================== 
+The ammount of noise can vary significantly among sensors and film stocks so the notion of a 35mm-equivalent ISO is less usefull than the other 35mm-equivalent measures.
+
+Though it is not commonly talked about, it is possible to use the concept of a 35mm-equivalent ISO. You can arrive at a 35mm-equivalent ISO, by multiplying the ISO by the crop factor. 35mm equivalent ISO determines the ammount of noise in the picture.
 
 Distortion and Subject Distance
 ===============================
