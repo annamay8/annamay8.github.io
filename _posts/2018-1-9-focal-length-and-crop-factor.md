@@ -40,6 +40,17 @@ Two pictures with the same 35mm equivalent focal length will have the same field
 
 To obtain the 35mm-equivalent focal length, multiply the focal length by the crop factor. Smaller sensor sizes result in longer 35mm-equivalent focal lengths and vice versa.
 
+<table>
+<tr><th colspan=2>Crop Factor</th><th colspan=10>35mm Equivalent Focal Length</th></tr>
+<tr><td>Micro 4/3</td><td>2</td><td>28</td><td>36</td><td>48</td><td>56</td><td>70</td><td>100</td><td>150</td><td>170</td><td>270</td><td>400</td></tr>
+<tr><td>Canon APSC</td><td>1.6</td><td>22.4</td><td>28.8</td><td>38.4</td><td>44.8</td><td>56</td><td>80</td><td>120</td><td>136</td><td>216</td><td>320</td></tr>
+<tr><td>General APSC</td><td>1.5</td><td>21</td><td>27</td><td>36</td><td>42</td><td>52.5</td><td>75</td><td>112.5</td><td>127.5</td><td>202.5</td><td>300</td></tr>
+<tr><td>Full Frame</td><td>1</td><td>14</td><td>18</td><td>24</td><td>28</td><td>35</td><td>50</td><td>75</td><td>85</td><td>135</td><td>200</td></tr>
+<tr><td>Medium Format 645</td><td>0.62</td><td>8.68</td><td>11.16</td><td>14.88</td><td>17.36</td><td>21.7</td><td>31</td><td>46.5</td><td>52.7</td><td>83.7</td><td>124</td></tr>
+<tr><td>Medium Format 6x6</td><td>0.55</td><td>7.7</td><td>9.9</td><td>13.2</td><td>15.4</td><td>19.25</td><td>27.5</td><td>41.25</td><td>46.75</td><td>74.25</td><td>110</td></tr>
+<tr><td>Medium Format 6x7</td><td>0.5</td><td>7</td><td>9</td><td>12</td><td>14</td><td>17.5</td><td>25</td><td>37.5</td><td>42.5</td><td>67.5</td><td>100</td></tr>
+</table>
+
 35mm Equivalent Aperture
 ========================
 Aperture determines the diameter of the light opening in the lens. The aperature is the ratio of the diameter of the lens opening to the focal length.
