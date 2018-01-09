@@ -72,10 +72,12 @@ td, th {
 }
 th {
   color: white;
-  background: #5B1723;
+  background: #aB3743;
 }
 table {
   border-collapse: collapse;
+  border-right: 1px solid #aB3743;
+  border-bottom: 1px solid #aB3743;
 }
 
 /**** header ****/
