@@ -104,6 +104,26 @@ header a:hover {
   box-shadow:         0px 0px 20px rgba(0,0,0,0.0);
 }
 
+dl {
+  background: #eee;
+  padding: 0.5em;
+}
+dt {
+  float: left;
+  clear: left;
+  width: 100px;
+  text-align: right;
+  font-weight: bold;
+  color: #5B1723;
+}
+dt::after {
+  content: ":";
+}
+dd {
+  margin: 0 0 0 110px;
+  padding: 0 0 0.5em 0;
+}
+
 footer {
     text-align: center;
     color: #888;
