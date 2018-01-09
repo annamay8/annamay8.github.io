@@ -44,6 +44,28 @@ img.responsive {
   max-width:100%;
 }
 
+dl {
+  background: #eee;
+  padding: 0.5em;
+}
+dt {
+  float: left;
+  clear: left;
+  width: 200px;
+  text-align: right;
+  font-weight: bold;
+  color: #5B1723;
+}
+dt::after {
+  content: ":";
+}
+dd {
+  margin: 0 0 0 210px;
+  padding: 0 0 0.5em 0;
+}
+
+/**** header ****/
+
 header {  
   background-color: #7A334C;
   background-image: url("/velviablossoms_small.jpg");
@@ -102,26 +124,6 @@ header a:hover {
   -moz-box-shadow:    0px 0px 20px rgba(0,0,0,0.0);
   -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.0);
   box-shadow:         0px 0px 20px rgba(0,0,0,0.0);
-}
-
-dl {
-  background: #eee;
-  padding: 0.5em;
-}
-dt {
-  float: left;
-  clear: left;
-  width: 200px;
-  text-align: right;
-  font-weight: bold;
-  color: #5B1723;
-}
-dt::after {
-  content: ":";
-}
-dd {
-  margin: 0 0 0 210px;
-  padding: 0 0 0.5em 0;
 }
 
 footer {
