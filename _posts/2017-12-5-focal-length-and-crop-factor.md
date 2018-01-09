@@ -27,8 +27,10 @@ General APS-C
 
 Medium Format 645
 :   0.62
+
 Medium Format 6x6
 :   0.55
+
 Medium Format 6x7
 :   0.5
 
