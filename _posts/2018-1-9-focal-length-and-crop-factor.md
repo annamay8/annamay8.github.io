@@ -61,6 +61,17 @@ Varying the aperture has two effects. A larger aperture (smaller f-number) resul
 
 A photo taken with the same 35mm equivalent aperature and the same 35mm equivalent focal length will exibit the same depth of field. 
 
+<table>
+<tr><th colspan="2">Crop Factor</th><th colspan="10">35mm Equivalent Aperture</th></tr>
+<tr><th>Micro 4/3        </th><th>2   </th><td>2</td><td>2.8</td><td>4</td><td>5.6</td><td>8</td><td>11.2</td><td>16</td><td>22</td><td>32</td><td>44</td></tr>
+<tr><th>Canon APSC       </th><th>1.6 </th><td>1.6</td><td>2.24</td><td>3.2</td><td>4.48</td><td>6.4</td><td>8.96</td><td>12.8</td><td>17.6</td><td>25.6</td><td>35.2</td></tr>
+<tr><th>General APSC     </th><th>1.5 </th><td>1.5</td><td>2.1</td><td>3</td><td>4.2</td><td>6</td><td>8.4</td><td>12</td><td>16.5</td><td>24</td><td>33</td></tr>
+<tr><th>Full Frame       </th><th>1   </th><td>1</td><td>1.4</td><td>2</td><td>2.8</td><td>4</td><td>5.6</td><td>8</td><td>11</td><td>16</td><td>22</td></tr>
+<tr><th>Medium Format 645</th><th>0.62</th><td>0.62</td><td>0.87</td><td>1.24</td><td>1.74</td><td>2.48</td><td>3.47</td><td>4.96</td><td>6.82</td><td>9.92</td><td>13.64</td></tr>
+<tr><th>Medium Format 6x6</th><th>0.55</th><td>0.55</td><td>0.77</td><td>1.1</td><td>1.54</td><td>2.2</td><td>3.08</td><td>4.4</td><td>6.05</td><td>8.8</td><td>12.1</td></tr>
+<tr><th>Medium Format 6x7</th><th>0.5 </th><td>0.5</td><td>0.7</td><td>1</td><td>1.4</td><td>2</td><td>2.8</td><td>4</td><td>5.5</td><td>8</td><td>11</td></tr>
+</table>
+
 35mm Equivalent ISO
 =================== 
 The ammount of noise can vary significantly among sensors and film stocks so the notion of a 35mm-equivalent ISO is less usefull than the other 35mm-equivalent measures.
