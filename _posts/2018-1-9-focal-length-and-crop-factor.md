@@ -16,6 +16,9 @@ The crop factor indicates the size of the image sensor or film frame. Crop facto
 
 Common Crop Factors:
 
+Micro 4/3
+:   2.0
+
 Canon APS-C
 :   1.6
 
@@ -32,10 +35,10 @@ Medium Format 6x6
 :   0.55
 
 Medium Format 6x7
-:   0.5
+:   0.50
 
 Large Format 4x5
-:   0.1
+:   0.10
 
 35mm Equivalent Focal Length (FoV)
 ==================================
