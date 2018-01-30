@@ -45,7 +45,7 @@ To obtain the 35mm-equivalent focal length, multiply the focal length by the cro
 <tr><th>Micro 4/3</th><th>2</th><td>	7.0	</td><td>	9.0	</td><td>	12.0	</td><td>	14.0	</td><td>	17.5	</td><td>	25.0	</td><td>	37.5	</td><td>	42.5	</td><td>	67.5	</td><td>	100.0	</td></tr>
 <tr><th>Canon APSC</th><th>1.6</th><td>	8.8	</td><td>	11.3	</td><td>	15.0	</td><td>	17.5	</td><td>	21.9	</td><td>	31.3	</td><td>	46.9	</td><td>	53.1	</td><td>	84.4	</td><td>	125.0	</td></tr>
 <tr><th>General APSC</th><th>1.5</th><td>	9.3	</td><td>	12.0	</td><td>	16.0	</td><td>	18.7	</td><td>	23.3	</td><td>	33.3	</td><td>	50.0	</td><td>	56.7	</td><td>	90.0	</td><td>	133.3	</td></tr>
-<tr><th>Full Frame</th><th>1</th><td>14</td><td>18</td><td>24</td><td>28</td><td>35</td><td>50</td><td>75</td><td>85</td><td>135</td><td>200</td></tr>
+  <tr><th>Full Frame</th><th>1</th><td><strong>14</strong></td><td><strong>18</strong></td><td><strong>24</strong></td><td><strong>28</strong></td><td><strong>35</strong></td><td><strong>50</strong></td><td><strong>75</strong></td><td><strong>85</strong></td><td><strong>135</strong></td><td><strong>200</strong></td></tr>
 <tr><th>Medium Format 645</th><th>0.62</th><td>	22.6	</td><td>	29.0	</td><td>	38.7	</td><td>	45.2	</td><td>	56.5	</td><td>	80.6	</td><td>	121.0	</td><td>	137.1	</td><td>	217.7	</td><td>	322.6	</td></tr>
 <tr><th>Medium Format 6x6</th><th>0.55</th><td>	25.5	</td><td>	32.7	</td><td>	43.6	</td><td>	50.9	</td><td>	63.6	</td><td>	90.9	</td><td>	136.4	</td><td>	154.5	</td><td>	245.5	</td><td>	363.6	</td></tr>
 <tr><th>Medium Format 6x7</th><th>0.5</th><td>	28.0	</td><td>	36.0	</td><td>	48.0	</td><td>	56.0	</td><td>	70.0	</td><td>	100.0	</td><td>	150.0	</td><td>	170.0	</td><td>	270.0	</td><td>	400.0	</td></tr>
