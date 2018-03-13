@@ -36,7 +36,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #7A334C;
+  color: #545791;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ td, th {
 }
 th {
   color: white;
-  background: #aB3743;
+  background: #545791;
 }
 table {
   border-collapse: collapse;
@@ -84,7 +84,7 @@ table {
 /**** header ****/
 
 header {  
-  background-color: #7A334C;
+  background-color: #545791;
   background-image: url("/img/blueblossom.jpg");
   background-position: center top;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ header a {
   color: white;
 }
 header a, a.button {
-  border: 1px solid #e81c4f;
+  border: 1px solid #94C7E6;
   border-radius: 290486px;
   font-size: 0.6em;
   letter-spacing: 0.2em;
@@ -130,7 +130,7 @@ header a, a.button {
   transition-property: color, background;
 }
 header a:hover, a.button:hover {
-  background:  #e81c4f;
+  background:  #545791;
   color: white;
 }
 .card {
