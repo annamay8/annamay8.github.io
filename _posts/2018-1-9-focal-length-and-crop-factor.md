@@ -10,9 +10,7 @@ Crop Factor
 ===========
 The crop factor indicates the size of the image sensor or film frame. Crop factor is the ratio of the diagonal of the frame to the diagonal of a standard 35mm frame.
 
-```
-(Crop Factor) = sqrt(36mm^2 +  24mm^2) / (frame diagonal)
-```
+<i>(Crop Factor) = sqrt(36mm<sup>2</sup>+24mm<sup>2</sup>) / (frame diagonal)</i>
 
 Common Crop Factors:
 
