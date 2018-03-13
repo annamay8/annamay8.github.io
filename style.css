@@ -14,7 +14,7 @@ main {
 
 hr {
   border: none;
-  background-color: #CC6096;
+  background-color: #5D77C4;
   height: 1px;
 }
 
@@ -23,7 +23,7 @@ header, h1, h2 {
 }
 
 h1 {
-  border-top: 1px #CC6096;
+  border-top: 1px #5D77C4;
   font-size: 2em;
 }
 
@@ -32,7 +32,7 @@ strong {
 }
 
 a {
-  color: #CC6096;
+  color: #5D77C4;
   text-decoration: none;
 }
 a:hover {
